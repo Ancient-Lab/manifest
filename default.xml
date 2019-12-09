@@ -799,5 +799,7 @@
 
   <!-- Add all PixelExperience repos -->
   <include name="snippets/pixel.xml" />
-
+	
+ <!-- Add all Ancient repos -->
+  <include name="snippets/ancient.xml" />
 </manifest>
