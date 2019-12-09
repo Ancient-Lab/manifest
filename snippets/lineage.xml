@@ -82,7 +82,7 @@
   <project path="vendor/qcom/opensource/thermal-engine" name="android_vendor_qcom_opensource_thermal-engine" remote="lineage" />
 
   <!-- Custom additions -->
-  <project path="prebuilts/tools-custom" name="android_prebuilts_tools-lineage" remote="lineage" clone-depth="1" />
+  <project path="prebuilts/tools-ancient" name="android_prebuilts_tools-lineage" remote="lineage" clone-depth="1" />
 
   <!-- Hardware repos -->
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" remote="lineage" />

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="ancient"
+          fetch="https://github.com/Ancient-Lab"
+          revision="ten" />
+
+  <!-- Build -->
+  <project path="build/make" name="build" remote="ancient">
+    <copyfile src="core/root.mk" dest="Makefile" />
+    <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
+    <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
+    <linkfile src="core" dest="build/core" />
+    <linkfile src="envsetup.sh" dest="build/envsetup.sh" />
+    <linkfile src="target" dest="build/target" />
+    <linkfile src="tools" dest="build/tools" />
+  </project>
+  <project path="build/soong" name="build_soong" remote="ancient">
+    <linkfile src="root.bp" dest="Android.bp" />
+    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+  </project>
+
+  <!-- Frameworks -->
+  <project path="frameworks/av" name="frameworks_av" remote="ancient" />
+  <project path="frameworks/base" name="Frameworks_base" remote="ancient" />
+  <project path="frameworks/native" name="frameworks_native" remote="ancient" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="ancient" />
+
+  <!-- General -->
+  <project path="bionic" name="bionic" remote="ancient" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="ancient" />
+  <project path="manifest" name="manifest" remote="ancient" />
+
+  <!-- Hardware -->
+  <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="ancient" />
+  <project path="hardware/interfaces" name="android_hardware_interfaces" remote="ancient" />
+
+  <!-- Packages -->
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient" />
+  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ancient" />
+  <project path="packages/apps/AncientSettings" name="packages_apps_AncientSettings" remote="ancient" />
+  <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="ancient" />
+
+  <!-- System -->
+  <project path="system/core" name="system_core" remote="ancient" />
+  <project path="system/netd" name="system_netd" remote="ancient" />
+  <project path="system/vold" name="system_vold" remote="ancient" />
+
+  <!-- Vendor -->
+  <project path="vendor/ancient" name="vendor_ancient" remote="ancient" />
+  <project path="vendor/overlays" name="vendor_overlays" remote="ancient" />
+
+</manifest>
