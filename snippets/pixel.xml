@@ -72,4 +72,7 @@
   <project path="system/bt" name="system_bt" remote="pixel" />
   <project path="system/sepolicy" name="system_sepolicy" remote="pixel" />
 
+  <!-- Vendor Repos -->
+  <project path="vendor/gapps" name="vendor_gapps" remote="pixel-gitlab" clone-depth="1" />
+
 </manifest>
