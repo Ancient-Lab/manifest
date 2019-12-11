@@ -52,5 +52,6 @@
   <!-- Vendor -->
   <project path="vendor/ancient" name="vendor_ancient" remote="ancient" />
   <project path="vendor/overlays" name="vendor_overlays" remote="ancient" />
+  <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="ancient" />
 
 </manifest>
