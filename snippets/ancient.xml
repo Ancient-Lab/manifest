@@ -20,6 +20,9 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <!-- External repos -->
+  <project path="external/tinycompress" name="external_tinycompress" remote="ancient" />
+
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="ancient" />
   <project path="frameworks/base" name="frameworks_base" remote="ancient" />
