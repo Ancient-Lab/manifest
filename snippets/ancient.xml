@@ -20,6 +20,12 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <!-- Device -->
+  <project path="device/ancient/sepolicy" name="device_ancient_sepolicy" remote="ancient" />
+  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="ancient" />
+  <project path="device/qcom/sepolicy-legacy" name="device_qcom_sepolicy" remote="ancient" revision="ten-legacy" />
+  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="ancient" revision="ten-legacy-um" />
+
   <!-- External repos -->
   <project path="external/tinycompress" name="external_tinycompress" remote="ancient" />
 
@@ -48,6 +54,7 @@
   <!-- System -->
   <project path="system/core" name="system_core" remote="ancient" />
   <project path="system/netd" name="system_netd" remote="ancient" />
+  <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
   <project path="system/vold" name="system_vold" remote="ancient" />
 
   <!-- Vendor -->
