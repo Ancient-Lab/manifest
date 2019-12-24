@@ -51,6 +51,9 @@
   <project path="packages/apps/AncientSettings" name="packages_apps_AncientSettings" remote="ancient" />
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="ancient" />
 
+  <!-- Prebuilts -->
+  <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" clone-depth="1" />
+
   <!-- System -->
   <project path="system/core" name="system_core" remote="ancient" />
   <project path="system/netd" name="system_netd" remote="ancient" />
