@@ -41,7 +41,7 @@
   <project path="manifest" name="manifest" remote="ancient" />
 
   <!-- Hardware -->
-  <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="ancient" />
+  <project path="hardware/ancient/interfaces" name="hardware_ancient_interfaces" remote="ancient" />
   <project path="hardware/interfaces" name="hardware_interfaces" remote="ancient" />
 
   <!-- Packages -->
