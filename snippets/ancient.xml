@@ -45,12 +45,13 @@
   <project path="hardware/interfaces" name="hardware_interfaces" remote="ancient" />
 
   <!-- Packages -->
+  <project path="packages/apps/AncientSettings" name="packages_apps_AncientSettings" remote="ancient" />
+  <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="ancient" />
+  <project path="packages/apps/Longshot" name="packages_apps_Longshot" remote="ancient" />
+  <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="ancient" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="ancient" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ancient" />
-  <project path="packages/apps/AncientSettings" name="packages_apps_AncientSettings" remote="ancient" />
-  <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="ancient" />
-  <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="ancient" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" clone-depth="1" />
