@@ -54,6 +54,13 @@
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="ancient" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ancient" />
 
+  <!-- Basic packages -->
+  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="ancient" clone-depth="1" />
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="ancient" clone-depth="1" />
+  <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="ancient" clone-depth="1" />
+  <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="ancient" clone-depth="1" />
+  <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="ancient" clone-depth="1" />
+
   <!-- Prebuilts -->
   <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" clone-depth="1" />
 
