@@ -27,6 +27,7 @@
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="ancient" revision="ten-legacy-um" />
 
   <!-- External repos -->
+  <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="ancient" />
   <project path="external/tinycompress" name="external_tinycompress" remote="ancient" />
 
   <!-- Frameworks -->
