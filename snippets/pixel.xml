@@ -91,6 +91,7 @@
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="pixel" />
 
   <!-- External repos -->
+  <project path="external/libcxx" name="external_libcxx" remote="pixel" />
   <project path="external/libhevc" name="external_libhevc" remote="pixel" />
 
   <!-- System Repos -->
