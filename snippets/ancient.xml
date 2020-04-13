@@ -56,6 +56,7 @@
   <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="ancient" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="ancient" />
+  <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="ancient" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="ancient" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ancient" />
 
