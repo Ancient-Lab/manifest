@@ -66,6 +66,7 @@
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="ancient" clone-depth="1" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="ancient" clone-depth="1" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="ancient" clone-depth="1" />
+  <project path="packages/apps/ViaBrowser" name="packages_apps_ViaBrowser" remote="ancient" clone-depth="1" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="ancient" clone-depth="1" />
 
   <!-- Prebuilts -->
