@@ -20,6 +20,9 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <!--CodeAurora additions -->
+  <project path="hardware/qcom-caf/msm8996/display" name="hardware_qcom_display" revision="ten-caf-msm8996" remote="ancient" />
+
   <!-- Device -->
   <project path="device/ancient/sepolicy" name="device_ancient_sepolicy" remote="ancient" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="ancient" />
