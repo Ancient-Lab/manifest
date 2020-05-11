@@ -4,6 +4,10 @@
   <remote name="ancient"
           fetch="https://github.com/Ancient-Lab"
           revision="ten" />
+  
+  <remote name="ancient-devices"
+          fetch="https://github.com/ancient-devices"
+          revision="ten" />
 
   <!-- Build -->
   <project path="build/make" name="android_build" remote="ancient">
