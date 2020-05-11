@@ -27,6 +27,7 @@
   <!--CodeAurora additions -->
   <project path="hardware/qcom-caf/msm8996/display" name="hardware_qcom_display" revision="ten-caf-msm8996" remote="ancient" />
   <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom_display" revision="ten-caf-msm8998" remote="ancient" />
+  <project path="hardware/qcom-caf/sdm845/display" name="hardware_qcom_display" revision="ten-caf-sdm845" remote="ancient" />
 
   <!-- Device -->
   <project path="device/ancient/sepolicy" name="device_ancient_sepolicy" remote="ancient" />
