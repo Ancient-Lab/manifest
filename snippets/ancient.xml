@@ -79,6 +79,7 @@
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="ancient" clone-depth="1" />
 
   <!-- Prebuilts -->
+  <project path="prebuilts/clang/host/linux-x86/clang-r383902" name="prebuilts_clang_host_linux-x86_clang-r383902" remote="ancient" clone-depth="1" />
   <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" clone-depth="1" />
 
   <!-- System -->
