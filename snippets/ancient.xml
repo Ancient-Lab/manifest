@@ -42,6 +42,7 @@
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="ancient" />
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="ancient" />
   <project path="external/skia" name="external_skia" remote="ancient" />
+  <project path="external/sqlite" name="external_sqlite" remote="ancient" />
   <project path="external/tinycompress" name="external_tinycompress" remote="ancient" />
 
   <!-- Frameworks -->
