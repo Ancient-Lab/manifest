@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------
 
 <p align="center">
- <img src="https://github.com/Ancient-Lab/manifest/blob/ten/ancient.png" > 
+ <img src="https://raw.githubusercontent.com/Ancient-Lab/packages_apps_Settings/ten-weeabo/res/drawable/onichan.png" > 
 </p>
 
 -----------------------------------------------------------------------------
@@ -50,7 +50,7 @@ To get started with the building process, you'll need to get familiar with [Git 
 # To initialize your local repository, use a command like this:-
 
 ```bash
- $ repo init -u https://github.com/Ancient-Lab/manifest -b ten
+ $ repo init -u https://github.com/Ancient-Lab/manifest -b ten-weeabo
 ```
 
 # Then to sync up:- 
