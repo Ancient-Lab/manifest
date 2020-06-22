@@ -7,7 +7,7 @@
         	/>
 
 	<remote name="xyzuan"
-     		fetch="htttps://github.com/xyzuan"
+     		fetch="https://github.com/xyzuan"
      		revision="ten-weeabo"
   		  	/>
 
