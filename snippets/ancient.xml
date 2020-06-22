@@ -48,14 +48,12 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="ancient" />
-  <project path="frameworks/base" name="frameworks_base" remote="ancient" />
   <project path="frameworks/native" name="frameworks_native" remote="ancient" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="ancient" />
 
   <!-- General -->
   <project path="bionic" name="bionic" remote="ancient" />
   <project path="bootable/recovery" name="bootable_recovery" remote="ancient" />
-  <project path="manifest" name="manifest" remote="ancient" />
 
   <!-- Hardware -->
   <project path="hardware/ancient/interfaces" name="hardware_ancient_interfaces" remote="ancient" />
@@ -66,10 +64,8 @@
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="ancient" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ancient" />
   <project path="packages/apps/OmniJaws" name="packages_apps_OmniJaws" remote="ancient" />
-  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="ancient" />
   <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="ancient" />
   <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="ancient" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="ancient" />
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="ancient" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="ancient" />
@@ -94,9 +90,7 @@
   <project path="system/vold" name="system_vold" remote="ancient" />
 
   <!-- Vendor -->
-  <project path="vendor/ancient" name="vendor_ancient" remote="ancient" />
   <project path="vendor/overlays" name="vendor_overlays" remote="ancient" />
-  <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="ancient" />
   <project path="vendor/prebuilts" name="vendor_prebuilts" remote="ancient" />
 
   <!-- CodeAurora Additional -->

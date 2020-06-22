@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote name="ancient-weeabo"
+        	fetch="https://github.com/Ancient-Lab"
+        	revision="ten-weeabo"
+        	/>
+
+	<remote name="xyzuan"
+     		fetch="htttps://github.com/xyzuan"
+  		  	/>
+
+<!-- General -->
+<project path="manifest" name="manifest" remote="ancient-weeabo" />
+
+<!-- Frameworks -->
+<project path="frameworks/base" name="frameworks_base" remote="ancient-weeabo" />
+
+<!-- Packages -->
+<project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient-weeabo" />
+<project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="ancient-weeabo" />
+
+<!-- Vendor -->
+<project path="vendor/ancient" name="vendor_ancient" remote="ancient-weeabo" />
+<project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="ancient-weeabo" />
