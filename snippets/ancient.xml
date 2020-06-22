@@ -60,9 +60,7 @@
   <project path="hardware/interfaces" name="hardware_interfaces" remote="ancient" />
 
   <!-- Packages -->
-  <project path="packages/apps/AncientSettings" name="packages_apps_AncientSettings" remote="ancient" />
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="ancient" />
-  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ancient" />
   <project path="packages/apps/OmniJaws" name="packages_apps_OmniJaws" remote="ancient" />
   <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="ancient" />
   <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="ancient" />

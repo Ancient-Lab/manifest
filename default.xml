@@ -801,4 +801,8 @@
 	
  <!-- Add all Ancient repos -->
   <include name="snippets/ancient.xml" />
+
+ <!-- arghh.. onichann -->
+  <include name="snippets/weeabo.xml" />
+  
 </manifest>

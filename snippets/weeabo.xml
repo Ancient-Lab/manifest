@@ -20,8 +20,12 @@
 <!-- Packages -->
 <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient-weeabo" />
 <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="ancient-weeabo" />
+<project path="packages/apps/AncientSettings" name="packages_apps_AncientSettings" remote="ancient-weeabo" />
+<project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ancient-weeabo" />
 <project path="packages/apps/Nekopoi" name="packages_apps_Nekopoi" remote="xyzuan" />
 
 <!-- Vendor -->
 <project path="vendor/ancient" name="vendor_ancient" remote="ancient-weeabo" />
 <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="ancient-weeabo" />
+
+</manifest>
