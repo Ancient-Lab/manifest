@@ -6,11 +6,6 @@
         	revision="ten-weeabo"
         	/>
 
-	<remote name="xyzuan"
-     		fetch="https://github.com/xyzuan"
-     		revision="ten-weeabo"
-  		  	/>
-
 <!-- General -->
 <project path="manifest" name="manifest" remote="ancient-weeabo" />
 
@@ -22,7 +17,6 @@
 <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="ancient-weeabo" />
 <project path="packages/apps/AncientSettings" name="packages_apps_AncientSettings" remote="ancient-weeabo" />
 <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ancient-weeabo" />
-<project path="packages/apps/Nekopoi" name="packages_apps_Nekopoi" remote="xyzuan" />
 
 <!-- Vendor -->
 <project path="vendor/ancient" name="vendor_ancient" remote="ancient-weeabo" />
