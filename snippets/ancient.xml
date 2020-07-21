@@ -62,6 +62,7 @@
   <!-- Packages -->
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="ancient" />
   <project path="packages/apps/OmniJaws" name="packages_apps_OmniJaws" remote="ancient" />
+  <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="ancient" />
   <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="ancient" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="ancient" />
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="ancient" />
