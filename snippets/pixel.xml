@@ -82,7 +82,6 @@
   <project path="hardware/ril" name="hardware_ril" remote="pixel" />
 
   <!-- Packages repos -->
-  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="pixel" />
   <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="pixel" />
   <project path="packages/apps/CertInstaller" name="packages_apps_CertInstaller" remote="pixel" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="pixel" />
@@ -118,7 +117,6 @@
   <!-- System Repos -->
   <project path="system/apex" name="system_apex" remote="pixel" />
   <project path="system/bpf" name="system_bpf" remote="pixel" />
-  <project path="system/bt" name="system_bt" remote="pixel" />
   <project path="system/extras" name="system_extras" remote="pixel" />
   <project path="system/hardware/interfaces" name="system_hardware_interfaces" remote="pixel" />
   <project path="system/keymaster" name="system_keymaster" remote="pixel" />
