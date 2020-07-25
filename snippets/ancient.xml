@@ -60,6 +60,7 @@
   <project path="hardware/interfaces" name="hardware_interfaces" remote="ancient" />
 
   <!-- Packages -->
+  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="ancient" />
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="ancient" />
   <project path="packages/apps/OmniJaws" name="packages_apps_OmniJaws" remote="ancient" />
   <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="ancient" />
@@ -82,6 +83,7 @@
   <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" clone-depth="1" />
 
   <!-- System -->
+  <project path="system/bt" name="system_bt" remote="ancient" />
   <project path="system/core" name="system_core" remote="ancient" />
   <project path="system/netd" name="system_netd" remote="ancient" />
   <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
@@ -92,6 +94,9 @@
   <project path="vendor/prebuilts" name="vendor_prebuilts" remote="ancient" />
 
   <!-- CodeAurora Additional -->
+  <project path="vendor/qcom/opensource/commonsys/bluetooth_ext" name="vendor_qcom_opensource_bluetooth_ext" remote="ancient" />
+  <project path="vendor/qcom/opensource/commonsys/packages/apps/Bluetooth" name="vendor_qcom_opensource_packages_apps_Bluetooth" remote="ancient" />
+  <project path="vendor/qcom/opensource/commonsys/system/bt" name="vendor_qcom_opensource_system_bt" remote="ancient" />
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="vendor_qcom_opensource_data-ipa-cfg-mgr" remote="ancient" />
 
 </manifest>
