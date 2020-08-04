@@ -34,6 +34,7 @@
 
   <!-- Device -->
   <project path="device/ancient/sepolicy" name="device_ancient_sepolicy" remote="ancient" />
+  <project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy" remote="ancient" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="ancient" />
   <project path="device/qcom/sepolicy-legacy" name="device_qcom_sepolicy" remote="ancient" revision="ten-legacy" />
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="ancient" revision="ten-legacy-um" />
