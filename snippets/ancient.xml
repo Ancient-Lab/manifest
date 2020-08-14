@@ -99,6 +99,7 @@
 
   <!-- Vendor -->
   <project path="vendor/ancient" name="vendor_ancient" remote="ancient" />
+  <project path="vendor/google-customization" name="vendor_google-customization" remote="ancient" />
   <project path="vendor/overlays" name="vendor_overlays" remote="ancient" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="ancient" />
   <project path="vendor/prebuilts" name="vendor_prebuilts" remote="ancient" />
