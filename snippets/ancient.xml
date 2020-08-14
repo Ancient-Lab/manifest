@@ -92,6 +92,7 @@
   <project path="system/vold" name="system_vold" remote="ancient" />
 
   <!-- Vendor -->
+  <project path="vendor/google-customization" name="vendor_google-customization" remote="ancient" />
   <project path="vendor/overlays" name="vendor_overlays" remote="ancient" />
   <project path="vendor/prebuilts" name="vendor_prebuilts" remote="ancient" />
 
