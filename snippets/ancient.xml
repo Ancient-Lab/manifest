@@ -65,6 +65,7 @@
   <!-- Packages -->
   <project path="packages/apps/AncientSettings" name="packages_apps_AncientSettings" remote="ancient" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="ancient" />
+  <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" remote="ancient" />
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="ancient" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ancient" />
   <project path="packages/apps/OmniJaws" name="packages_apps_OmniJaws" remote="ancient" />
