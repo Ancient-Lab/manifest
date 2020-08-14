@@ -94,6 +94,7 @@
   <project path="system/core" name="system_core" remote="ancient" />
   <project path="system/netd" name="system_netd" remote="ancient" />
   <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
+  <project path="system/update_engine" name="system_update_engine" remote="ancient" />
   <project path="system/vold" name="system_vold" remote="ancient" />
 
   <!-- Vendor -->
