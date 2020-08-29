@@ -74,6 +74,7 @@
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ancient" />
   <project path="packages/apps/OmniJaws" name="packages_apps_OmniJaws" remote="ancient" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="ancient" />
+  <project path="packages/apps/PixelLiveWallpaper" name="packages_apps_PixelLiveWallpaper" remote="ancient-gitlab" clone-depth="1" />
   <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="ancient" />
   <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="ancient" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient" />
