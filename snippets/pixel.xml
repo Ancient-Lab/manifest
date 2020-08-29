@@ -121,7 +121,4 @@
   <project path="system/keymaster" name="system_keymaster" remote="pixel" />
   <project path="system/timezone" name="system_timezone" remote="pixel" />
 
-  <!-- Vendor Repos -->
-  <project path="vendor/gapps" name="vendor_gapps" remote="pixel-gitlab" clone-depth="1" />
-
 </manifest>
