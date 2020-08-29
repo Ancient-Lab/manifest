@@ -9,6 +9,10 @@
           fetch="https://github.com/ancient-devices"
           revision="ten" />
 
+  <remote name="ancient-gitlab"
+          fetch="https://gitlab.com/ancient-os"
+          revision="ten" />
+
   <!-- Build -->
   <project path="build/make" name="android_build" remote="ancient">
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -93,6 +97,7 @@
   <project path="system/vold" name="system_vold" remote="ancient" />
 
   <!-- Vendor -->
+  <project path="vendor/gapps" name="vendor_gapps" remote="ancient-gitlab" clone-depth="1" />
   <project path="vendor/google-customization" name="vendor_google-customization" remote="ancient" />
   <project path="vendor/overlays" name="vendor_overlays" remote="ancient" />
   <project path="vendor/prebuilts" name="vendor_prebuilts" remote="ancient" />
