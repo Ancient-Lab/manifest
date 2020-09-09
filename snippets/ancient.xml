@@ -68,10 +68,12 @@
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="ancient" />
   <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" remote="ancient" />
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="ancient" />
+  <project path="packages/apps/EmergencyInfo" name="packages_apps_EmergencyInfo" remote="ancient" />
   <project path="packages/apps/OmniJaws" name="packages_apps_OmniJaws" remote="ancient" />
   <project path="packages/apps/PixelLiveWallpaper" name="packages_apps_PixelLiveWallpaper" remote="ancient-gitlab" clone-depth="1" />
   <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="ancient" />
   <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="ancient" />
+  <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="ancient" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="ancient" />
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="ancient" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="ancient" />
