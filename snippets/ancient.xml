@@ -44,8 +44,11 @@
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="ancient" revision="ten-legacy-um" />
 
   <!-- External repos -->
+  <project path="external/aac" name="external_aac" remote="ancient" />
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="ancient" />
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="ancient" />
+  <project path="external/freetype" name="external_freetype" remote="ancient" />
+  <project path="external/libexif" name="external_libexif" remote="ancient" />
   <project path="external/selinux" name="external_selinux" remote="ancient" /> 
   <project path="external/sonivox" name="external_sonivox" remote="ancient" />
   <project path="external/skia" name="external_skia" remote="ancient" />
@@ -98,6 +101,7 @@
   <project path="system/core" name="system_core" remote="ancient" />
   <project path="system/libufdt" name="system_libufdt" remote="ancient" />
   <project path="system/netd" name="system_netd" remote="ancient" />
+  <project path="system/nfc" name="system_nfc" remote="ancient" />
   <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
   <project path="system/update_engine" name="system_update_engine" remote="ancient" />
   <project path="system/vold" name="system_vold" remote="ancient" />
